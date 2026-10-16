@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">AIMacroDroid</string>
+    <string name="accessibility_service_description">AIMacroDroid automated macro execution service for performing taps, gestures, text input, and screen analysis as instructed by the AI automation engine.</string>
+    <string name="tab_live_constructor">Live Constructor</string>
+    <string name="tab_saved_macros">Saved Macros</string>
+    <string name="tab_settings">API Keys &amp; Settings</string>
+</resources>

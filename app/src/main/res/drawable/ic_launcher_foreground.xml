@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Macro Automation Flow Card Frame in center (centered in 108dp, within 66dp safe zone) -->
+    <!-- Android Robot Antennae -->
+    <path
+        android:pathData="M38,32 L33,25 M70,32 L75,25"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="3"
+        android:strokeLineCap="round" />
+    
+    <!-- Robot Head Dome -->
+    <path
+        android:pathData="M34,44 C34,33 43,28 54,28 C65,28 74,33 74,44 Z"
+        android:fillColor="#0284C7" />
+    
+    <!-- Robot Glowing Eyes (Vision AI) -->
+    <path
+        android:pathData="M43,38 A2.5,2.5 0 1,1 43,38.01 M65,38 A2.5,2.5 0 1,1 65,38.01"
+        android:strokeColor="#F8FAFC"
+        android:strokeWidth="4"
+        android:strokeLineCap="round" />
+
+    <!-- Macro Action Blocks Chain -->
+    <!-- Block 1 (Red / Trigger) -->
+    <path
+        android:pathData="M35,48 L73,48 A3,3 0 0,1 76,51 L76,58 A3,3 0 0,1 73,61 L35,61 A3,3 0 0,1 32,58 L32,51 A3,3 0 0,1 35,48 Z"
+        android:fillColor="#EF4444" />
+    
+    <!-- Flow Connector Arrow -->
+    <path
+        android:pathData="M54,61 L54,66 M51,64 L54,67 L57,64"
+        android:strokeColor="#FACC15"
+        android:strokeWidth="2.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Block 2 (Blue / Action) -->
+    <path
+        android:pathData="M35,68 L73,68 A3,3 0 0,1 76,71 L76,78 A3,3 0 0,1 73,81 L35,81 A3,3 0 0,1 32,78 L32,71 A3,3 0 0,1 35,68 Z"
+        android:fillColor="#2563EB" />
+
+    <!-- Target Tap Crosshair on Action Block (Vision Coordinate AI) -->
+    <path
+        android:pathData="M54,72 L54,77 M51.5,74.5 L56.5,74.5"
+        android:strokeColor="#38BDF8"
+        android:strokeWidth="2"
+        android:strokeLineCap="round" />
+</vector>
